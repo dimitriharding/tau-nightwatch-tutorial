@@ -1,0 +1,18 @@
+{
+	"name": "tau-nightwatch-tutorial",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "nightwatch"
+	},
+	"author": "“Dimitri Harding",
+	"license": "ISC",
+	"dependencies": {
+		"nightwatch-html-reporter": "^2.0.6"
+	},
+	"devDependencies": {
+		"chromedriver": "^79.0.0",
+		"nightwatch": "^1.3.2"
+	}
+}

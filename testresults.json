@@ -1,0 +1,56 @@
+{
+	"passed": 0,
+	"failed": 0,
+	"errors": 0,
+	"skipped": 0,
+	"tests": 0,
+	"assertions": 0,
+	"errmessages": [],
+	"modules": {
+		"navigation": {
+			"reportPrefix": "CHROME_79.0.3945.130_Mac_OS_X_",
+			"assertionsCount": 0,
+			"skipped": [],
+			"time": "12.81",
+			"completed": {
+				"Should naviagte by default URL": {
+					"time": "12.81",
+					"assertions": [],
+					"passed": 0,
+					"errors": 0,
+					"failed": 0,
+					"skipped": 0,
+					"tests": 0,
+					"steps": [],
+					"stackTrace": "",
+					"testcases": {
+						"Should naviagte by default URL": {
+							"time": "12.81",
+							"assertions": [],
+							"tests": 0,
+							"passed": 0,
+							"errors": 0,
+							"failed": 0,
+							"skipped": 0,
+							"steps": [],
+							"stackTrace": "",
+							"timeMs": 12812
+						}
+					},
+					"timeMs": 12812
+				}
+			},
+			"errmessages": [],
+			"testsCount": 1,
+			"skippedCount": 0,
+			"failedCount": 0,
+			"errorsCount": 0,
+			"passedCount": 0,
+			"group": "",
+			"modulePath": "/Users/dimitriharding/Documents/projects/internal/tau-nightwatch-tutorial/tests/navigation.js",
+			"tests": 1,
+			"failures": 0,
+			"errors": 0
+		}
+	}
+}
