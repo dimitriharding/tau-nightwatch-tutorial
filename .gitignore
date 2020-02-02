@@ -3,3 +3,4 @@ screen_evidence
 screenshots
 tests_output
 chromedriver.log
+.env
